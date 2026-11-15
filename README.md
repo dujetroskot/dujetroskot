@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Duje 👋
 
-<!--
-**dujetroskot/dujetroskot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Computing (Data Science) at **FER, University of Zagreb**, and a software
+developer at **Ericsson Nikola Tesla**, where I work on 5G software in C/C++.
 
-Here are some ideas to get you started:
+I work across data science, machine learning and AI agents, and I enjoy taking ideas from a notebook all the way to working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **[SurApp](https://github.com/dujetroskot/surapp)**: web app for survey analysis with
+  NLP and machine learning, built for my Bachelor's thesis on a survey of 223 students.
+- **[Puzzle Party](https://github.com/dujetroskot/puzzleparty)**: real-time multiplayer
+  party games in the browser, built with Django Channels and WebSockets.
+
+### Open source
+
+- [daytona/guides #37](https://github.com/daytona/guides/pull/37): migrated the Cursor
+  guide to Daytona's stable snapshot API.
+- [daytona/clients #555](https://github.com/daytona/clients/issues/555): found and
+  narrowed down a bug where bar charts were missing from code execution results, fixed
+  by the Daytona team.
+
+### Tech
+
+Python · C/C++ · scikit-learn · PyTorch · pandas · Django · SQL · Git
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/duje-troskot)
